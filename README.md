@@ -1,2 +1,2 @@
-# lsmhun-helm-charts
-helm chart repository
+# lsmhun helm charts
+Helm chart repository for some demo projects
