@@ -3,9 +3,9 @@ entries:
   kafka-connect-wrapper:
   - apiVersion: v2
     appVersion: 6.1.0-0.1
-    created: "2021-04-08T12:12:55.451595+02:00"
+    created: "2021-04-13T22:39:01.4858843+02:00"
     description: Kafka Connect wrapper helm chart
-    digest: d181db16366cd7f78d34da04b5fffae607eedf89f0150ff54ffc4680138af705
+    digest: f108b44d8ea7ac6bc70a9adf5fbd0842b9ff5e29ec28bb833ab889d67cb41029
     home: https://github.com/lsmhun/kafka-connect-wrapper
     keywords:
     - kafka connect
@@ -16,4 +16,4 @@ entries:
     urls:
     - kafka-connect-wrapper/kafka-connect-wrapper-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-08T12:12:55.4493612+02:00"
+generated: "2021-04-13T22:39:01.4831484+02:00"
